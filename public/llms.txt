@@ -1,0 +1,85 @@
+# Yoshi Cars — Generative Engine Optimization Map
+
+> A luxury automotive brand focused on high-end vehicles, catering to an elite clientele who appreciate prestige, performance, and exclusivity. The brand exudes sophistication, power, and refined taste, positioning itself in the premium segment of the automotive market.
+
+---
+
+## Pages
+
+### בית
+https://yoshi-cars-4a1e8fd5.zappy5.app
+גלו עולם של רכבי יוקרה כסופים המשלבים עוצמה, יופי וביצועים ללא פשרות. Yoshi Cars מזמינה אתכם לחוויית נהיגה מושלמת. היכנסו והתחילו את המסע שלכם עוד היום.
+
+### ניסיון
+https://yoshi-cars-4a1e8fd5.zappy5.app/experience
+חוו את נשמת המותג דרך עיניים חדשות. ממפגש ראשון ועד לנהיגה, כל רגע מעוצב בקפידה עבור לקוחות מובחרים. Yoshi Cars – כי אתם ראויים ליותר מסטטוס.
+
+### אטלייה
+https://yoshi-cars-4a1e8fd5.zappy5.app/atelier
+היכנסו אל מאחורי הקלעים של יצירת מופת על גלגלים. באטלייה שלנו, כל פרט מותאם לחזונכם האישי, משלב אומנות עם טכנולוגיה מתקדמת. צרו קשר כדי לעצב את החלום.
+
+### צור קשר
+https://yoshi-cars-4a1e8fd5.zappy5.app/contact
+הצעד הראשון לקראת הרכב היוקרתי הבא שלכם מתחיל כאן. צוות המומחים שלנו ממתין להעניק לכם ייעוץ אישי ודיסקרטי. השאירו פרטים ונתאים לכם את הפסגה הבאה.
+
+### Products
+https://yoshi-cars-4a1e8fd5.zappy5.app/products
+המוצרים שלנו - Yoshi Cars
+
+### Product Detail
+https://yoshi-cars-4a1e8fd5.zappy5.app/product/:slug
+פרטי המוצר - Yoshi Cars
+
+### Category
+https://yoshi-cars-4a1e8fd5.zappy5.app/category/:slug
+מוצרים - Yoshi Cars
+
+### תודה | Yoshi Cars
+https://yoshi-cars-4a1e8fd5.zappy5.app/thank-you
+Yoshi Cars - תודה | Yoshi Cars
+
+## Legal & Policy
+
+### Privacy Policy
+https://yoshi-cars-4a1e8fd5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://yoshi-cars-4a1e8fd5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://yoshi-cars-4a1e8fd5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Yoshi Cars
+A luxury automotive brand focused on high-end vehicles, catering to an elite clientele who appreciate prestige, performance, and exclusivity. The brand exudes sophistication, power, and refined taste, positioning itself in the premium segment of the automotive market.
+
+## Target Audience
+- חובבי ורוכשי רכבי יוקרה
+- מנהלים מצליחים
+- בעלי ממון גבוה
+- אספני רכבי יוקרה
+
+## Industry
+Luxury Automotive
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://yoshi-cars-4a1e8fd5.zappy5.app/sitemap.xml
+- Robots: https://yoshi-cars-4a1e8fd5.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://yoshi-cars-4a1e8fd5.zappy5.app/llms-full.txt
+- Products (JSON): https://yoshi-cars-4a1e8fd5.zappy5.app/products.json
+- Products (Google Merchant RSS): https://yoshi-cars-4a1e8fd5.zappy5.app/product-feed.xml
